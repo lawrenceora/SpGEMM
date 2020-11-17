@@ -97,51 +97,51 @@ int main(int argc, char *argv[]){
     }
     IC[p] = ip;
 
-    // Gustavson End
-    // std::cout << "A = ";
-    // for (int i = 0; i < na; i++)
-    //     std::cout << A[i] << " ";
-    // std::cout << "\n";
+    Gustavson End
+    std::cout << "A = ";
+    for (int i = 0; i < na; i++)
+        std::cout << A[i] << " ";
+    std::cout << "\n";
 
-    // std::cout << "JA = ";
-    // for (int i = 0; i < na; i++)
-    //     std::cout << JA[i] << " ";
-    // std::cout << "\n";
+    std::cout << "JA = ";
+    for (int i = 0; i < na; i++)
+        std::cout << JA[i] << " ";
+    std::cout << "\n";
 
-    // std::cout << "IA = ";
-    // for (int i = 0; i <= p; i++)
-    //     std::cout << IA[i] << " ";
-    // std::cout << "\n";
+    std::cout << "IA = ";
+    for (int i = 0; i <= p; i++)
+        std::cout << IA[i] << " ";
+    std::cout << "\n";
 
-    // std::cout << "B = ";
-    // for (int i = 0; i < nb; i++)
-    //     std::cout << B[i] << " ";
-    // std::cout << "\n";
+    std::cout << "B = ";
+    for (int i = 0; i < nb; i++)
+        std::cout << B[i] << " ";
+    std::cout << "\n";
 
-    // std::cout << "JB = ";
-    // for (int i = 0; i < nb; i++)
-    //     std::cout << JB[i] << " ";
-    // std::cout << "\n";
+    std::cout << "JB = ";
+    for (int i = 0; i < nb; i++)
+        std::cout << JB[i] << " ";
+    std::cout << "\n";
 
-    // std::cout << "IB = ";
-    // for (int i = 0; i <= q; i++)
-    //     std::cout << IB[i] << " ";
-    // std::cout << "\n";
+    std::cout << "IB = ";
+    for (int i = 0; i <= q; i++)
+        std::cout << IB[i] << " ";
+    std::cout << "\n";
 
-    // std::cout << "C = ";
-    // for (int i = 0; i < ip; i++)
-    //     std::cout << C[i] << " ";
-    // std::cout << "\n";
+    std::cout << "C = ";
+    for (int i = 0; i < ip; i++)
+        std::cout << C[i] << " ";
+    std::cout << "\n";
 
-    // std::cout << "JC = ";
-    // for (int i = 0; i < ip; i++)
-    //     std::cout << JC[i] << " ";
-    // std::cout << "\n";
+    std::cout << "JC = ";
+    for (int i = 0; i < ip; i++)
+        std::cout << JC[i] << " ";
+    std::cout << "\n";
 
-    // std::cout << "IC = ";
-    // for (int i = 0; i <= q; i++)
-    //     std::cout << IC[i] << " ";
-    // std::cout << "\n";
+    std::cout << "IC = ";
+    for (int i = 0; i <= q; i++)
+        std::cout << IC[i] << " ";
+    std::cout << "\n";
 
 
     return 0;
